@@ -46,8 +46,8 @@ Currently building projects in SQL, Python, Excel, and Power BI while continuous
 
 ### Data Analytics
 - Microsoft Excel
-- Pandas *(Learning)*
-- Power BI *(Learning)*
+- Pandas 
+- Power BI 
 
 ### Tools
 - Git
@@ -59,18 +59,6 @@ Currently building projects in SQL, Python, Excel, and Power BI while continuous
 
 👉 Repository:
 https://github.com/YOUR_GITHUB_USERNAME/pizza-sales-analysis-sql
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
